@@ -32,7 +32,6 @@ Bright_Coffee_Shop_Sales_Analysis
   -	Maintain and scale the morning traffic. Ensure staff capacity is adequate during the 7-10am to handle traffic and potential growth   overtime
   -	Create an event and test it in the afternoon between 2-5pm, where you create complementary combo’s specials with 10 coffee/tea’s and most selling bakery products (e.g. Dark chocolate and scones) to attract traffic and increase revenue
   -	Introduce loyalty programs where you get double points between 2-5pm.
-  -	Maintain and scale the morning traffic. Ensure staff capacity is adequate during the 7-10am to handle traffic and potential growth overtime
 
 **Tools and Technologies**
  - SQL
