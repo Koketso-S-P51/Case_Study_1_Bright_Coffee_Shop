@@ -36,9 +36,8 @@ Bright_Coffee_Shop_Sales_Analysis
 **Tools and Technologies**
  - SQL
  - MS Excel
- - Databricks (Data Cleansing)  
+ - Databricks  
 
 
 
-MS0 Excel
-Databricks (Data Cleaning)
+MS0 ExcDatabricks (Data Cleaning)
